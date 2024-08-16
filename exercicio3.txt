@@ -1,0 +1,1 @@
+Retornamos para branch master, criamos um novo arquivo chamado exercicio3
